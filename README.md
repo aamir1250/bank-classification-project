@@ -11,7 +11,6 @@ This project is a **Classification Machine Learning project** based on the Bank 
 * **Name:** bank-full.csv
 * **Records:** 45,211
 * **Features:** 16 input attributes + 1 target (`y`)
-* **Source:** [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 * **File description:**
 
   * `bank-full.csv` (dataset)
@@ -64,9 +63,6 @@ python3 project.py
    * Train RandomForest model
    * Print accuracy
 
-## GitHub Repository
-
-* All project files, including the dataset script and notebook, should be uploaded to GitHub.
-* The GitHub repository link should be provided in the assignment submission sheet.
-
----
+Author:
+AAMIR KHURSHEED.
+EMAIL:-aamirkhursheed1250@gmail.com
