@@ -66,6 +66,6 @@ python3 project.py
 Author:
 
 
-AAMIR KHURSHEED and Abdullah khan.
+Aamir khursheed and Abdullah khan.
 
 EMAIL:-amirbtech@student.iul.ac.in and abukhan@student.iul.ac.in
